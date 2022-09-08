@@ -1,8 +1,0 @@
-who It is used to get information about currently logged in user on to system. If you don't provide any option or arguments, the command displays the following information for each logged-in user.
-
-Login name of the user
-User terminal
-Date & Time of login
-Remote host name of the user
-$ who
-sudheer :0 2019-08-04 01:21 (:0)
